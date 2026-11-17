@@ -1,11 +1,23 @@
 {
-  "version": "1.2.1",
-  "tag": "v1.2.1",
-  "releasedAt": "2026-11-17T00:15:32Z",
-  "notes": "插座開關（關閉要確認兩次）、面板改版（390×336、功率燈號、每 4 秒更新）、新增自動更新。",
+  "version": "1.2.2",
+  "tag": "v1.2.2",
+  "releasedAt": "2026-11-17T01:33:16Z",
+  "notes": "Apple 版與 Intel 版分開發布：Intel Mac 下載 x64、Apple Silicon 下載 arm64；自動更新會依 CPU 下載對的版本。",
   "dmg": {
-    "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.1/CozyPlug-1.2.1.dmg",
-    "size": 105445794,
-    "sha256": "af7ec2c0c24d5c5eddbdfb9c62ca3a60d4cd4e237851a1fb4f089b2c2ab4fe99"
+    "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.2/CozyPlug-1.2.2-arm64.dmg",
+    "size": 105449211,
+    "sha256": "7afbae5e955583e5ea27f464255d7c2d41393a9e2f843956730c78cdfb81a194"
+  },
+  "dmgs": {
+    "arm64": {
+      "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.2/CozyPlug-1.2.2-arm64.dmg",
+      "size": 105449211,
+      "sha256": "7afbae5e955583e5ea27f464255d7c2d41393a9e2f843956730c78cdfb81a194"
+    },
+    "x64": {
+      "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.2/CozyPlug-1.2.2-x64.dmg",
+      "size": 114941856,
+      "sha256": "5bbcf062b73e355d88ea2424b9227df4c1fbad51b1bcead7eedae7722fd5b47c"
+    }
   }
 }
