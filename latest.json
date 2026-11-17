@@ -1,0 +1,11 @@
+{
+  "version": "1.2.1",
+  "tag": "v1.2.1",
+  "releasedAt": "2026-11-17T00:15:32Z",
+  "notes": "插座開關（關閉要確認兩次）、面板改版（390×336、功率燈號、每 4 秒更新）、新增自動更新。",
+  "dmg": {
+    "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.1/CozyPlug-1.2.1.dmg",
+    "size": 105445794,
+    "sha256": "af7ec2c0c24d5c5eddbdfb9c62ca3a60d4cd4e237851a1fb4f089b2c2ab4fe99"
+  }
+}
