@@ -1,23 +1,23 @@
 {
-  "version": "1.2.2",
-  "tag": "v1.2.2",
-  "releasedAt": "2026-11-17T01:33:16Z",
-  "notes": "Apple 版與 Intel 版分開發布：Intel Mac 下載 x64、Apple Silicon 下載 arm64；自動更新會依 CPU 下載對的版本。",
+  "version": "1.2.3",
+  "tag": "v1.2.3",
+  "releasedAt": "2026-11-17T11:20:12Z",
+  "notes": "底列改放「家／學校／全部」分頁，騰出空間讓 1～6 號一次放得下；修掉面板四角透出的藍色。",
   "dmg": {
-    "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.2/CozyPlug-1.2.2-arm64.dmg",
-    "size": 105449211,
-    "sha256": "7afbae5e955583e5ea27f464255d7c2d41393a9e2f843956730c78cdfb81a194"
+    "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.3/CozyPlug-1.2.3-arm64.dmg",
+    "size": 105450326,
+    "sha256": "eb5a82b26fc2da1abe6c8aa9c808d21b65b40f23f6528664dbfc5a702ad26827"
   },
   "dmgs": {
     "arm64": {
-      "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.2/CozyPlug-1.2.2-arm64.dmg",
-      "size": 105449211,
-      "sha256": "7afbae5e955583e5ea27f464255d7c2d41393a9e2f843956730c78cdfb81a194"
+      "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.3/CozyPlug-1.2.3-arm64.dmg",
+      "size": 105450326,
+      "sha256": "eb5a82b26fc2da1abe6c8aa9c808d21b65b40f23f6528664dbfc5a702ad26827"
     },
     "x64": {
-      "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.2/CozyPlug-1.2.2-x64.dmg",
-      "size": 114941856,
-      "sha256": "5bbcf062b73e355d88ea2424b9227df4c1fbad51b1bcead7eedae7722fd5b47c"
+      "url": "https://github.com/michelle0812/cozyplug-releases/releases/download/v1.2.3/CozyPlug-1.2.3-x64.dmg",
+      "size": 114941473,
+      "sha256": "0632fc8d1a31d1ba89734520beece278cadcd03d3c204bcee08e9e3b7af0292c"
     }
   }
 }
